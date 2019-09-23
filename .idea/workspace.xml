@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b00395-fb67-460f-a861-d1d2cb535895" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/list-211.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-211.csv" beforeDir="false" afterPath="$PROJECT_DIR$/list-211.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-985.csv" beforeDir="false" afterPath="$PROJECT_DIR$/list-985.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -145,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569221325101</updated>
       <workItem from="1569221326750" duration="224000" />
-      <workItem from="1569221575442" duration="713000" />
+      <workItem from="1569221575442" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1569221404095</created>
@@ -161,15 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569221687636</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1569222343697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569222343697</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="937000" />
+    <option name="totallyTimeSpent" value="1001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
